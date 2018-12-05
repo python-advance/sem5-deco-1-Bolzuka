@@ -144,4 +144,4 @@ culculate()
 
 
        
-Вывод: [Файл Record.txt](https://github.com/python-advance/sem5-deco-1-Bolzuka/blob/master/Record.txt "Файл Record.txt" )
+Вывод: [Файл Record.txt](https://github.com/python-advance/sem5-deco-1-Bolzuka/blob/master/2/Record.txt "Файл Record.txt" )
